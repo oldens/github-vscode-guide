@@ -7,3 +7,4 @@
 1. [Урок 1: Створення проекту "з нуля"](lesson1_create_project.md)
 2. [Урок 2: Ініціалізація Git репозиторію для існуючого проекту](lesson2_existing_project.md)
 3. [Урок 3: Як опублікувати свій сайт за допомогою GitHub Pages](lesson3_publish_github_pages.md)
+4. [Урок 4: Як відкотитися до якоїсь версії](lesson4_revert_changes.md)
